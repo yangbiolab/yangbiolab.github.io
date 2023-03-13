@@ -1,12 +1,16 @@
 # main links
+# https://staryunlab.com/
+# http://yulab-smu.top/about/
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Research"
+    url: /docs/research/
+  - title: "Publications"
+    url: /docs/publications/
+  - title: "Team"
+    url: /docs/team/
+  - title: "Lab Fun"
+    url: /docs/labfun/
+  - title: "News"
+    url: /docs/news/
+  - title: "Contact"
+    url: /docs/contact/
