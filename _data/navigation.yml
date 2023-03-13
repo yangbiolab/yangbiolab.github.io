@@ -4,7 +4,7 @@
 # https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_data/navigation.yml
 main:
   - title: "Research"
-    url: /docs/research/
+    url: https://yangbiolab.github.io/docs/research/research.md
   - title: "Publications"
     url: /docs/publications/
   - title: "Team"
