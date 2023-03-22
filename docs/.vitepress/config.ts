@@ -5,7 +5,6 @@ export default {
   // 主题配置
   themeConfig: {
     siteTitle: 'YangLab@FJMU',
-    logo: '/background.jpeg',
     socialLinks: [ {icon: 'github', link: 'https://github.com/yangbiolab' }],
     // 文档所在的文件夹
     docsDir: 'docs',
@@ -18,18 +17,9 @@ export default {
       {text: 'News', link: "/News/"},
       {text: 'Contact', link: "/Contact/"}
     ],
-    sidebar: [
-      {
-        text: 'Guide',
-        items: [
-          { text: 'Introduction', link: '/introduction' },
-          { text: 'Getting Started', link: '/getting-started' }
-        ]
-      }
-    ]
-//     sidebar: {
-//       // 斜杠代表的是docs文件夹
-//       '/Aboult/': [ {text: "Goal", children: [{text: "gut microbiome", link: "/Aboult/goal"}] }]
-//     }
+    sidebar: {
+      // 斜杠代表的是docs文件夹
+      '/Aboult/': [ {text: "Goal", children: [{text: "gut microbiome", link: "/Aboult/goal"}] }]
+    }
   }
 }
