@@ -18,16 +18,19 @@ export default {
       {text: 'News', link: "/News/"},
       {text: 'Contact', link: "/Contact/"}
     ],
-    sidebar: {
-      // 斜杠代表的是docs文件夹
-      '/Aboult/': [
-        {text: "Goal", children: [{text: "gut microbiome", link: "/Aboult/goal"}] }
-      ]
-    },
-     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You'
-//       '闽ICP备2022017705号'
-    }
+    sidebar: [
+      {
+        text: 'Guide',
+        items: [
+          { text: 'Introduction', link: '/introduction' },
+          { text: 'Getting Started', link: '/getting-started' },
+          ...
+        ]
+      }
+    ]
+//     sidebar: {
+//       // 斜杠代表的是docs文件夹
+//       '/Aboult/': [ {text: "Goal", children: [{text: "gut microbiome", link: "/Aboult/goal"}] }]
+//     }
   }
 }
