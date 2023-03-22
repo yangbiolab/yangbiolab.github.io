@@ -1,3 +1,7 @@
+---
+home: true
+---
+
 # YangLab@FJMU
 
 课题组一直专注于...
