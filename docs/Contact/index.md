@@ -1,13 +1,12 @@
-
 ---
-home: false
+home: true
 heroImage: https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1531014646136-J1VHBDFAVM8F7076Z3H9/creativity+adobe+reduced+cropped.jpg?format=2500w
 
 heroAlt: Logo image
 heroText: Test
 tagline:
 actionText: Info
-actionLink: /Team
+actionLink: /Team/
 ---
 
 
