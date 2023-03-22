@@ -10,7 +10,7 @@ on:
   # workflow_dispatch:
 
 jobs:
-  docs:
+  Deploy_GitHub_Pages:
     runs-on: ubuntu-latest
     environment: github-pages
     steps:
@@ -66,7 +66,8 @@ jobs:
           # password: ${{ secrets.PASSWORD }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.PORT }}
-          script: ${{ secrets.SCRIPT}}
+          script: |
+            ${{ secrets.SCRIPT}}
           
 #       - name: Deploy file to aliyun server
 #         uses: wlixcc/SFTP-Deploy-Action@v1.0
