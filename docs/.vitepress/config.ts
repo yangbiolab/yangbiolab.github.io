@@ -19,7 +19,7 @@ export default {
     ],
     sidebar: {
       // 斜杠代表的是docs文件夹
-      '/Aboult/': [ {text: "Goal", children: [{text: "gut microbiome", link: "/Aboult/goal"}] }]
+      '/Publications/': [ {text: "Goal", children: [{text: "gut microbiome", link: "/Aboult/goal"}] }]
     }
   }
 }
