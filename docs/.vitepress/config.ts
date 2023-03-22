@@ -32,7 +32,8 @@ export default {
     },
      footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You'
+      copyright: 'Copyright © 2019-present Evan You',
+      '闽ICP备2022017705号'
     }
   }
 }
