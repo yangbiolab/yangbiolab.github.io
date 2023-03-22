@@ -4,7 +4,7 @@ heroAlt: Logo image
 heroText: YangLab
 tagline: microbiome lab
 actionText: Contact Us
-actionLink: /Contact/
+actionLink: /Team/
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
