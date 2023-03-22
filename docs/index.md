@@ -30,4 +30,4 @@ footer: 闽ICP备2022017705号
 
 
 ## test
-figure ![svg](/3.svg)
+figure ![jpeg](/background.jpeg)
