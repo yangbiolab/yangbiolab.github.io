@@ -9,29 +9,53 @@ on:
   # 手动触发部署
   # workflow_dispatch:
 
+
 jobs:
   Deploy_GitHub_Pages:
     runs-on: ubuntu-latest
-    environment: github-pages
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-          cache: yarn
-      - run: yarn install --frozen-lockfile
-      
+          cache: npm
+          
+      - run: npm ci
       - name: Build
-        run: yarn docs:build
+        run: npm run docs:build
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: actions/configure-pages@v2
+      - uses: actions/upload-pages-artifact@v1
         with:
-          target_branch: gh-pages  # 部署到 gh-pages 分支         
-          build_dir: docs/.vitepress/dist  # 部署目录为 VuePress 的默认输出目录
+          target_branch: gh-pages  # 部署到 gh-pages 分支 
+          path: docs/.vitepress/dist
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v1
+        
+        
+        
+        
+#       - name: Deploy
+#         uses: peaceiris/actions-gh-pages@v3
+#         with:
+#           target_branch: gh-pages  # 部署到 gh-pages 分支         
+#           build_dir: docs/.vitepress/dist  # 部署目录为 VuePress 的默认输出目录
+#         env:
+#           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+#           GITHUB_TOKEN: ${{ secrets.TOKEN }}
       
       - name: executing remote ssh commands using password
         uses: appleboy/ssh-action@master
