@@ -41,7 +41,8 @@ export default {
     },
     footer: {
       message: 'Last revised：2023.03.23',
-      copyright: '闽ICP备2022017705号'
+      copyright: '闽ICP备2022017705号 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5qacqwoylqa&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>'
+
     }
   }
 }
