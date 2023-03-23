@@ -1,6 +1,4 @@
 export default {
-  title: 'YangLab',
-  description: 'Yang Lab in FJMU',
   base: '/',
   // 主题配置
   themeConfig: {
