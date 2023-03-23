@@ -15,7 +15,9 @@ home: true
 
 ![](/team.png)
 
-::: info 讲授课程: [模式识别与数据挖掘](https://item.jd.com/54599677086.html)
+::: info 讲授课程: 模式识别与数据挖掘
+
+[教材](https://item.jd.com/54599677086.html)
 
 [生物信息专业 数据挖掘课作业APP](http://yangbiolab.cn:8052/)
 
