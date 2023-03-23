@@ -1,5 +1,5 @@
 ---
-layout: home
+home: true
 ---
 
 # YangLab@FJMU
