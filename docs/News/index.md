@@ -1,8 +1,9 @@
 ---
 home: true
 ---
-
-# News
+<br><br>
+# News :tada: :100:
+<br><br>
 
 | Time | News  |
 |-----:|:---------|
