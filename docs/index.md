@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1530472563594-BD4SODXTT6GJZHKEEUNJ/AdobeStock_92533760_gut+microbiome.jpeg
-heroAlt: Logo image
+heroAlt: heroImage
 heroText: Yang microbiome Lab
-text: 立足前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。
+tagline: 
 actionText: Join Us
 actionLink: /Team/
 
@@ -17,3 +17,5 @@ features:
   - title: 构建疾病预测模型及Web app
     details: 利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关疾病的诊断预测模型。
 ---
+
+**立足前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。**
