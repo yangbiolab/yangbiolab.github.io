@@ -20,6 +20,10 @@ export default {
     sidebar: {
       // 斜杠代表的是docs文件夹
       '/Publications/': [ {text: "Goal", children: [{text: "gut microbiome", link: "/Aboult/goal"}] }]
+    },
+    footer: {
+      message: 'Last revised：2023.03.23',
+      copyright: '闽ICP备2022017705号'
     }
   }
 }
