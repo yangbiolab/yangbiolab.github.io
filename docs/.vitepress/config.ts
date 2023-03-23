@@ -1,6 +1,8 @@
 export default {
   base: '/',
   // 主题配置
+  title: 'YangLab',
+  description: 'Yang Lab in FJMU',
   themeConfig: {
     siteTitle: 'YangLab@FJMU',
     socialLinks: [ {icon: 'github', link: 'https://github.com/yangbiolab' }],
