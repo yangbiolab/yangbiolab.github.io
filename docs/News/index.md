@@ -1,3 +1,7 @@
+---
+home: true
+---
+
 # News
 
 | Time | News  |
