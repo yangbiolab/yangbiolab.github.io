@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage:https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1531006790023-6UVIWQ0NTKNNPR8NJ667/AdobeStock_190878909+publish+.jpg?format=2500w
+heroImage: https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1531006790023-6UVIWQ0NTKNNPR8NJ667/AdobeStock_190878909+publish+.jpg?format=2500w
 ---
 
 # Publish or Perish!
