@@ -2,13 +2,15 @@
 home: true
 ---
 
-<img style="width:100%;height: 200px;object-fit: cover;" src="https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1530472563594-BD4SODXTT6GJZHKEEUNJ/AdobeStock_92533760_gut+microbiome.jpeg" alt="">
+![Gut Microbiome](https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1530472563594-BD4SODXTT6GJZHKEEUNJ/AdobeStock_92533760_gut+microbiome.jpeg)
+
 
 **立足前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。**
 
 <br>
 ### 研究内容
----
+
+
 ::: info **理解微生物群在人体健康到疾病发展过程中的作用**
 通过文献挖掘及微生物组学数据的分析，构建肠-免疫轴，肠-脑轴等相关疾病的微生物组-宿主互作知识图谱数据库及方法软件（web server）。
 :::
