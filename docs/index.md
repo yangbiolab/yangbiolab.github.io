@@ -1,6 +1,5 @@
 ---
 home: true
-footer: xxxxx
 ---
 
 ![Gut Microbiome](https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1530472563594-BD4SODXTT6GJZHKEEUNJ/AdobeStock_92533760_gut+microbiome.jpeg)
@@ -36,6 +35,3 @@ footer: xxxxx
 |XRCZX2022003	|菌群相关复杂疾病的建模预测及机制研究|校科技处|50.0	|	2022.4-2026.9|
 |J22016	|基于Jupyter Notebook的项目式学习在《Python语言程序设计》课程中的应用研究|福建医科大学教育教学改革研究项目|1.0	|2022.10 - 2023.8| 
 
-::: slot footer
-MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803)
-:::
