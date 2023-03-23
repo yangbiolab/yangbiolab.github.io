@@ -1,14 +1,11 @@
 ---
 home: true
-heroImage: https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1531014646136-J1VHBDFAVM8F7076Z3H9/creativity+adobe+reduced+cropped.jpg?format=2500w
-heroAlt: Logo image
-tagline: Join Our Team
 ---
+![](https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1531014646136-J1VHBDFAVM8F7076Z3H9/creativity+adobe+reduced+cropped.jpg?format=2500w)
 
-
-
-We Look for people who have great “ACID”.  A: Attitude,  C: Capability,   I: Integrity,   D: Desire
-                      Please, join our lab only if you have excellent “ACID”!
+>We Look for people who have great "ACID".  A: Attitude,  C: Capability,   I: Integrity,   D: Desire
+>
+>Please, join our lab only if you have excellent "ACID"!
 
 招收生物信息学硕士生，欢迎咨询；同时也欢迎联系科研合作。
 
