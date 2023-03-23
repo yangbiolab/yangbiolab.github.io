@@ -4,9 +4,14 @@ home: true
 
 # YangLab@FJMU
 
-课题组一直专注于...
-
-![](https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1530472563594-BD4SODXTT6GJZHKEEUNJ/AdobeStock_92533760_gut+microbiome.jpeg?format=2500w)
+本课题组一直专注于应用前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。
 
 
-[contact](/Contact/)
+The lab's research interests include: 
+>1. microbiome in human health and diseases.
+>2. microbiome-based markers and therapeutics for diseases & disorders.
+>3. AI in medicine.
+
+![](/team.png)
+
+
