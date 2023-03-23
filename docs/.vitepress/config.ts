@@ -4,6 +4,9 @@ export default {
   title: 'YangLab@FJMU',
   description: 'Microbiome',
   appearance: true,
+  lastUpdated: true,
+  footer: true,
+
   markdown: {
     theme: 'material-theme-palenight',
     lineNumbers: true,
@@ -16,6 +19,7 @@ export default {
       }
     }
   },
+  
   themeConfig: {
     siteTitle: 'YangLab',
     socialLinks: [ {icon: 'github', link: 'https://github.com/yangbiolab' }],
@@ -42,7 +46,7 @@ export default {
     footer: {
       message: 'Last revised：2023.03.23',
       copyright: '闽ICP备2022017705号'
-
-    }
+    }    
   }
+  
 }
