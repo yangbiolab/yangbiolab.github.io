@@ -1,11 +1,29 @@
 export default {
   base: '/',
   // 主题配置
-  title: 'YangLab',
-  description: 'Yang Lab in FJMU',
+  title: 'YangLab@FJMU',
+  description: 'Microbiome',
+  appearance: true,
+  markdown: {
+    theme: 'material-theme-palenight',
+    lineNumbers: true,
+    
+    // adjust how header anchors are generated,
+    // useful for integrating with tools that use different conventions
+    anchors: {
+      slugify(str) {
+        return encodeURIComponent(str)
+      }
+    }
+  },
   themeConfig: {
-    siteTitle: 'YangLab@FJMU',
+    siteTitle: 'YangLab',
     socialLinks: [ {icon: 'github', link: 'https://github.com/yangbiolab' }],
+    lastUpdatedText: 'Updated Date',
+    carbonAds: {
+      code: 'your-carbon-code',
+      placement: 'your-carbon-placement'
+    },
     // 文档所在的文件夹
     docsDir: 'docs',
     // 头部nav 
