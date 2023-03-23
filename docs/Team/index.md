@@ -1,5 +1,5 @@
 ---
-home: true
+layout: doc
 ---
 
 <div>
