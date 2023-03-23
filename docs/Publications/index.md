@@ -1,7 +1,8 @@
+---
+home: true
+heroImage: https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1530472563594-BD4SODXTT6GJZHKEEUNJ/AdobeStock_92533760_gut+microbiome.jpeg
+---
+
 # Publish or Perish!
 
-- gfdg [dfs](https://www.ncbi.nlm.nih.gov/pubmed/?term=High-fructose+corn+syrup+enhances+intestinal+tumor+growth+in+mice) dfds 
-- gfsd g
-- gf g
-- g fd s
-- 
+参考：[Publications](http://lab.malab.cn/~yangfl/#Publications)
