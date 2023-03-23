@@ -10,7 +10,7 @@ export default {
     docsDir: 'docs',
     // 头部nav 
     nav: [
-      {text: 'Aboult ', link: "/Aboult/"},
+      {text: 'About ', link: "/About/"},
       {text: 'Publications', link: "/Publications/"},
       {text: 'Team', link: "/Team/"},
       {text: 'Lab Fun', link: "/LabFun/"},
