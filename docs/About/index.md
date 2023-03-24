@@ -15,7 +15,7 @@ home: true
 
 ![](/team.png)
 
-::: info 讲授课程: 模式识别与数据挖掘
+::: info Teaching: 模式识别与数据挖掘
 
 [教材](https://item.jd.com/54599677086.html)
 
