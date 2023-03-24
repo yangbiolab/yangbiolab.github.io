@@ -35,14 +35,3 @@ home: true
 |XRCZX2022003	|菌群相关复杂疾病的建模预测及机制研究|校科技处|50.0	|	2022.4-2026.9|
 |J22016	|基于Jupyter Notebook的项目式学习在《Python语言程序设计》课程中的应用研究|福建医科大学教育教学改革研究项目|1.0	|2022.10 - 2023.8| 
 
-
- <div>
-        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5uhruhjzlna&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
-
-         <p class="text-center text-white pt-3">
-        Last revised：2021.03.05
-        </p>
-            
-</div>
-
-
