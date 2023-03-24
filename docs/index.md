@@ -43,8 +43,6 @@ home: true
             </div>
             <p class="text-center text-white pt-3">
                 Last revised：2021.03.05
-                <!-- <a class="m-0 text-center text-white" href="#"></a> -->
-                <!-- &copy; 2020 by Yang Fenglong       -->
             </p>
             
         </div>
