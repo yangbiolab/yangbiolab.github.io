@@ -16,3 +16,39 @@ home: true
 
 ![BMDMC2 ](/BMDMC4_20230326_bowuguan-600.jpg  "广西壮族自治区博物馆")
 
+
+<script setup>
+import {
+  VPTeamPage,
+  VPTeamPageTitle,
+  VPTeamMembers
+} from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: '/BMDMC4_20230326_bowuguan-600.jpg',
+    name: 'Evan You',
+    title: 'Creator',
+    links: [
+      { icon: 'github', link: '/BMDMC4_20230326_bowuguan-600.jpg' },
+      { icon: 'twitter', link: '/BMDMC4_20230326_bowuguan-600.jpg' }
+    ]
+  },
+  ...
+]
+</script>
+
+<VPTeamPage>
+  <VPTeamPageTitle>
+    <template #title>
+      Our Team
+    </template>
+    <template #lead>
+      The development of VitePress is guided by an international
+      team, some of whom have chosen to be featured below.
+    </template>
+  </VPTeamPageTitle>
+  <VPTeamMembers
+    :members="members"
+  />
+</VPTeamPage>
