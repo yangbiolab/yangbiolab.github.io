@@ -12,4 +12,4 @@ home: true
 
 |  Time  | Funs   |
 |-----:|:---------:|
-|Mar 2023 | <img src="/BMDMC4_20230324-26.jpg" title="广西南宁市-第四届全国生物医学数据挖掘与计算学术会议（BMDMC）" height = "300" /> <img src="/20230326_BMDMC4_bowuguan.jpg" title="广西壮族自治区博物馆" height = "300"/>|
+|Mar 2023 | <img src="/BMDMC4_20230324-26.jpg" title="广西南宁市-第四届全国生物医学数据挖掘与计算学术会议（BMDMC）" height = "300" /> |
