@@ -12,10 +12,10 @@ home: true
 
 ### Mar 2023
 
+
 <img src="/BMDMC4_20230324-26-600.jpg" title="广西南宁市-第四届全国生物医学数据挖掘与计算学术会议（BMDMC）" height = "200" />  
 <img src="/BMDMC4_20230326_bowuguan-600.jpg" title="广西壮族自治区博物馆" height = "200" /> 
 
 ![BMDMC](/BMDMC4_20230324-26-600.jpg "广西南宁市-第四届全国生物医学数据挖掘与计算学术会议（BMDMC）")
 
-![BMDMC2 ](/BMDMC4_20230326_bowuguan-600.jpg  "广西壮族自治区博物馆")
 
