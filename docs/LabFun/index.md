@@ -10,12 +10,9 @@ home: true
 
 **希望你乘兴而来，尽兴而归**
 
-### Mar 2023
+|  Time  | Funs   |
+|-----:|:---------:|
+|Mar 2023 | <img src="/BMDMC4_20230324-26-600.jpg" title="广西南宁市-第四届全国生物医学数据挖掘与计算学术会议（BMDMC）" height = "300" />  <img src="/BMDMC4_20230326_bowuguan-600.jpg" title="广西壮族自治区博物馆" height = "300" /> |
 
-
-<img src="/BMDMC4_20230324-26-600.jpg" title="广西南宁市-第四届全国生物医学数据挖掘与计算学术会议（BMDMC）" height = "200" />  
-<img src="/BMDMC4_20230326_bowuguan-600.jpg" title="广西壮族自治区博物馆" height = "200" /> 
-
-![BMDMC](/BMDMC4_20230324-26-600.jpg "广西南宁市-第四届全国生物医学数据挖掘与计算学术会议（BMDMC）")
 
 
