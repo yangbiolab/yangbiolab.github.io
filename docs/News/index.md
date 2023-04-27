@@ -7,6 +7,7 @@ home: true
 
 | Time | News  |
 |-----:|:---------|
+| Apr 2023| 敬弘、刘熠、奕钦参加《[第六届数字中国建设峰会](http://www.gov.cn/lianbo/2023-04/04/content_5749971.htm)》|
 | Mar 2023  |美玲、子楹、敬弘参加[第四届全国生物医学数据挖掘与计算学术会议（BMDMC）](https://mp.weixin.qq.com/s/FocrM62WM4Em83s4pr6F0g)|
 | Mar 2023  |子楹、敬弘的论文在[***Journal of Data Science and Intelligent Systems***](https://doi.org/10.47852/bonviewJDSIS3202744)发表|
 | Sep 2022   |赖诗蓉、张梓华、杨帅、韩梓沂、李佳庆的科普作品《**预防帕金森病-从肠计议**》在医学技术与工程学院第四届医学科普能力大赛中荣获三等奖|
