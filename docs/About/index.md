@@ -24,3 +24,7 @@ home: true
 [智能医学专业 数据挖掘课作业APP](http://yangbiolab.cn:8055/)
 :::
 
+::: tip 参考资料 
+[敬弘的技术博客](https://candy13573.github.io/)
+
+:::
