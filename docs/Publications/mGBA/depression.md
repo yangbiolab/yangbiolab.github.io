@@ -1,6 +1,6 @@
 ---
 title: mGBA-Depression
-layout: doc
+layout: false
 ---
 
 # Summary of Microbial-associated Datasets and clinical trials for Depression
