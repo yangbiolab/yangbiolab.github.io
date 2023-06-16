@@ -1,5 +1,5 @@
-## All disease begins in the Gut
-## Let food be thy medicine and medicine be thy food
+> ## All disease begins in the Gut
+> ## Let food be thy medicine and medicine be thy food
 >                                                  - Hippocrates -
  
 
