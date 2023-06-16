@@ -5,6 +5,13 @@ home: true
 
 # Yang Microbiome Lab
 
+>
+>  **All disease begins in the Gut**
+> 
+> **Let food be the medicine and medicine be the food**
+> 
+>                                                  - Hippocrates -
+
 本课题组一直专注于应用前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。
 
 ::: tip The lab's research interests include: 
