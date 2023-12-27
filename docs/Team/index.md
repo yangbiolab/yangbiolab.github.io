@@ -2,7 +2,7 @@
 home: true
 ---
 
-![](/team.png)
+![](/team2023.jpg)
 
 
 # Current Members
