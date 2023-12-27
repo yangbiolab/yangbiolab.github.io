@@ -5,6 +5,13 @@ home: true
 
 # Yang Microbiome Lab
 
+> **粪毒入血，百病蜂起**
+>
+>                - 中医观点 -
+>
+> **肠道菌群的某些成员产生的毒素是衰老根源**
+>
+>                - 梅契尼可夫（1908年诺贝尔奖）- 
 >
 >  **All disease begins in the Gut**
 > 
@@ -15,14 +22,15 @@ home: true
 本课题组一直专注于应用前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。
 
 ::: tip The lab's research interests include: 
-1. microbiome in human health and diseases.
-2. microbiome-based markers and therapeutics for diseases & disorders.
-3. AI in medicine.
+1. Microbiome in human health and diseases.
+2. Metabolic model-based diet–gut microbiome–host axis
+3. Microbiome-based markers and therapeutics for diseases & disorders.
+4. AI in medicine.
 :::
 
 ![](/team.png)
 
-::: info Teaching: 模式识别与数据挖掘
+::: info Teaching: 模式识别与数据挖掘/生物医学大数据挖掘
 
 [教材](https://item.jd.com/54599677086.html)
 
