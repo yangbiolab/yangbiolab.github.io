@@ -2,7 +2,7 @@
 home: true
 ---
 
-![](/team2023.jpg)
+![](/team/team2023.jpg)
 
 
 # Current Members
@@ -12,11 +12,12 @@ home: true
 
 
 ## 科研助理
-王美玲
+王美玲、罗琪
 <br/>
 
 ## 研究生
 2023级：赖文凯、张宇辰
+
 <br/>
 
 ## 本科生
