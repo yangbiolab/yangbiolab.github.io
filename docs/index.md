@@ -2,7 +2,7 @@
 home: true
 ---
 
-![Gut Microbiome](https://images.squarespace-cdn.com/content/v1/5aa84edaf793922ad7a32f48/1530472563594-BD4SODXTT6GJZHKEEUNJ/AdobeStock_92533760_gut+microbiome.jpeg)
+![Gut Microbiome](/background.jpeg)
 
 
 **立足前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。**
@@ -16,8 +16,9 @@ home: true
 通过文献挖掘及微生物组学数据的分析，构建肠-免疫轴，肠-脑轴等相关疾病的微生物组-宿主互作知识图谱数据库及方法软件（web server）。
 :::
 
+
 ::: tip 开发调整菌群的方案以维持人体健康
-构建菌群-宿主代谢互作模型，发展基于菌群代谢模型及微生物组数据识别疾病标志物的生物信息学方法。
+构建饮食-菌群-宿主代谢互作模型，发展基于菌群代谢模型及微生物组数据识别疾病标志物的生物信息学方法。
 :::
 
 ::: warning 构建疾病预测模型及Web app
@@ -25,6 +26,11 @@ home: true
 :::
 
 <br>
+
+![Goal](/mission.png)
+
+<br>
+
 
 ### 科研项目
 
