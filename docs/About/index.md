@@ -28,7 +28,6 @@ home: true
 4. AI in medicine.
 :::
 
-![team](/team2023.jpg)
 ![mission](/mission.png)
 
 ::: info Teaching: 模式识别与数据挖掘/生物医学大数据挖掘
