@@ -5,6 +5,7 @@ home: true
 
 # Yang Microbiome Lab
 
+
 > **粪毒入血，百病蜂起**
 >
 >                                                  - 中医观点 -
@@ -21,6 +22,8 @@ home: true
 
 本课题组一直专注于应用前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。
 
+![mission](/mission.png)
+
 ::: tip The lab's research interests include: 
 1. Microbiome in human health and diseases.
 2. Metabolic model-based diet–gut microbiome–host axis
@@ -28,10 +31,7 @@ home: true
 4. AI in medicine.
 :::
 
-![mission](/mission.png)
-
-
-::: info Teaching: 模式识别与数据挖掘/生物医学大数据挖掘
+::: info Teaching: 模式识别与数据挖掘 / 微生物组信息学
 
 [教材](https://item.jd.com/54599677086.html)
 
