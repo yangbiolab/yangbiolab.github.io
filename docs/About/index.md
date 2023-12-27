@@ -30,7 +30,6 @@ home: true
 
 ![mission](/mission.png)
 
-![team](/team/team2023.jpg)
 
 ::: info Teaching: 模式识别与数据挖掘/生物医学大数据挖掘
 
