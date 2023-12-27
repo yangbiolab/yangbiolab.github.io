@@ -27,7 +27,7 @@ home: true
 
 <br>
 
-![Goal](/mission.png)
+![Lab mission](/mission.png)
 
 <br>
 
