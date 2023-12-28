@@ -30,16 +30,20 @@ home: true
 4. AI in medicine.
 :::
 
-::: info Teaching: 模式识别与数据挖掘 / 微生物组信息学 【[教材](https://item.jd.com/54599677086.html)】
+::: info Teaching: 模式识别与数据挖掘 / 微生物组信息学
 
-[生物信息专业 数据挖掘课作业APP](http://yangbiolab.cn:8052/)
+- [教材：《数据挖掘导论（原书第2版）》](https://developer.aliyun.com/article/727304)
 
-[智能医学专业 数据挖掘课作业APP](http://yangbiolab.cn:8055/)
+- [生物信息专业 数据挖掘课作业APP](http://yangbiolab.cn:8052/)
+
+- [智能医学专业 数据挖掘课作业APP](http://yangbiolab.cn:8055/)
+
 :::
+
 
 ::: tip 参考资料
 
-【文档】
-[敬弘同学的技术博客](https://candy13573.github.io/)
+- Lab飞书文档
+- [敬弘同学的技术博客](https://candy13573.github.io/)
 
 :::
