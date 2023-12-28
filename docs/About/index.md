@@ -7,18 +7,18 @@ home: true
 
 
 > **粪毒入血，百病蜂起**
->
->                                                  - 中医观点 -
+>  
+>                                   - 中医观点 -
 >
 > **肠道菌群的某些成员产生的毒素是衰老根源**
 >
->                                                  - 梅契尼可夫（1908年诺贝尔奖） -
+>                                 - 梅契尼可夫 -
 >
 >  **All disease begins in the Gut**
 > 
 > **Let food be the medicine and medicine be the food**
 > 
->                                                  - Hippocrates -
+>                               - Hippocrates -
 
 
 
@@ -34,9 +34,7 @@ home: true
 4. AI in medicine.
 :::
 
-::: info Teaching: 模式识别与数据挖掘 / 微生物组信息学
-
-[教材](https://item.jd.com/54599677086.html)
+::: info Teaching: 模式识别与数据挖掘 / 微生物组信息学 [教材](https://item.jd.com/54599677086.html)
 
 [生物信息专业 数据挖掘课作业APP](http://yangbiolab.cn:8052/)
 
