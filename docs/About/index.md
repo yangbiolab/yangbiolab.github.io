@@ -6,19 +6,15 @@ home: true
 # Yang Microbiome Lab
 
 
-> **粪毒入血，百病蜂起**
->  
->                                   - 中医观点 -
->
-> **肠道菌群的某些成员产生的毒素是衰老根源**
->
->                                 - 梅契尼可夫 -
->
->  **All disease begins in the Gut**
-> 
-> **Let food be the medicine and medicine be the food**
-> 
->                               - Hippocrates -
+> **粪毒入血，百病蜂起**<br>
+>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - 中医观点 -
+
+> **肠道菌群的某些成员产生的毒素是衰老根源**<br>
+>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - 梅契尼可夫 -
+
+> **All disease begins in the Gut**<br>
+> **Let food be the medicine and medicine be the food**<br>
+>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - Hippocrates -
 
 
 
@@ -34,7 +30,7 @@ home: true
 4. AI in medicine.
 :::
 
-::: info Teaching: 模式识别与数据挖掘 / 微生物组信息学 [教材](https://item.jd.com/54599677086.html)
+::: info Teaching: 模式识别与数据挖掘 / 微生物组信息学 【[教材](https://item.jd.com/54599677086.html)】
 
 [生物信息专业 数据挖掘课作业APP](http://yangbiolab.cn:8052/)
 
@@ -43,6 +39,7 @@ home: true
 
 ::: tip 参考资料
 
-[敬弘的技术博客](https://candy13573.github.io/)
+【文档】
+[敬弘同学的技术博客](https://candy13573.github.io/)
 
 :::
