@@ -1,0 +1,1 @@
+import{_ as e,z as t,D as o,W as a}from"./plugin-vue_export-helper.5fef3c0d.js";const f='{"title":"Home","description":"","frontmatter":{"home":true},"relativePath":"Contact/index.md","lastUpdated":1706878914248}',p={},c=a("",5),s=[c];function n(r,i,_,l,d,u){return o(),t("div",null,s)}var g=e(p,[["render",n]]);export{f as __pageData,g as default};
