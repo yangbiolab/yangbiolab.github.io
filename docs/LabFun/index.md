@@ -11,4 +11,5 @@ home: true
 **希望你乘兴而来，尽兴而归**
 
 **[Life in YangLab](https://kwqw2do10m.feishu.cn/docx/GgfCdEzZyojtecxtCEkcMISvnGg)**
-![Life in YangLab](blob:https://kwqw2do10m.feishu.cn/6555a5f1-dfbf-4487-8dd4-5ca8e2557231)
+[![Life in YangLab](/team/fudao.jfif)](https://kwqw2do10m.feishu.cn/docx/GgfCdEzZyojtecxtCEkcMISvnGg)
+![Life in YangLab](/team/zhufugui.jpg)
