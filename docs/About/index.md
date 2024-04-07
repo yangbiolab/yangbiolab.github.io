@@ -3,29 +3,23 @@ home: true
 ---
 
 
-# Yang Microbiome Lab
+# Systems Microbiome Medicine Lab
+
+| **Lab Philosophy** | **Scientist**  |
+|:-------------------|:---------------|
+| 粪毒入血，百病蜂起 |- 中医观点 -|
+| 肠道菌群的某些成员产生的毒素是衰老根源 |- 梅契尼可夫 - |
+| All disease begins in the Gut  <br> Let food be the medicine and medicine be the food | - Hippocrates -|
+| Balance fosters homeostasis, while imbalance triggers dysbiosis, <br> which has been linked to various health problems | - YangLab -|
 
 
-> **粪毒入血，百病蜂起**<br>
->&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - 中医观点 -
-
-> **肠道菌群的某些成员产生的毒素是衰老根源**<br>
->&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - 梅契尼可夫 -
-
-> **All disease begins in the Gut**<br>
-> **Let food be the medicine and medicine be the food**<br>
->&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - Hippocrates -
-
-
-
-**本课题组专注于应用前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现疾病的精准化诊疗。**
-
+**本课题组专注于使用系统生物学的理念和方法，应用前沿生物信息学及人工智能技术解读菌群内部及菌群-宿主代谢互作平衡对健康的影响，并开发调理这种平衡（Balance）的靶向菌群的干预方法(饮食干预、精准营养，中药干预等)，旨在实现疾病的精准化诊疗。**
 
 ![mission](/mission.png)
 
 ::: tip The lab's research interests include: 
 1. Microbiome in human health and diseases.
-2. Metabolic model-based diet–gut microbiome–host axis
+2. Host-microbiome co-metabolism modeling for precision medicine.
 3. Microbiome-based markers and therapeutics for diseases & disorders.
 4. AI in medicine.
 :::
