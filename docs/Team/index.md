@@ -4,7 +4,7 @@ home: true
 
 
 # Current Members
-
+![](/team/team2023.jpg)
 ## 导师
 [杨凤龙](http://lab.malab.cn/~yangfl)，副教授，硕导，福建医科大学医学技术与工程学院生物信息学系
 
@@ -25,13 +25,12 @@ home: true
 | 24级   |王美玲、赖诗蓉|
 | 23级   |赖文凯、张宇辰 |
 
-![](/team/team2023.jpg)
-
 <br/>
 
 # Former Members ...
 
-
+<br/>
+<br/>
 
 ## 本科生
 |       |               |
