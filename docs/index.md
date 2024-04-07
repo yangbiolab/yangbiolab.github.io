@@ -27,7 +27,7 @@ home: true
 
 <br>
 
-![Lab mission](/mission.png)
+![Lab mission](/balance.png)
 
 <br>
 
