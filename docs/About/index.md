@@ -8,7 +8,7 @@ home: true
 | **Lab Philosophy** | **Scientist**  |
 |:-------------------|:---------------|
 | 粪毒入血，百病蜂起 |- 中医观点 -|
-| 肠道菌群的某些成员产生的毒素是衰老根源 |- 梅契尼可夫 - |
+| 肠道菌群的某些成员产生的毒素是衰老根源 |-梅契尼可夫- |
 | All disease begins in the Gut. Let food be the medicine and medicine be the food | -Hippocrates-|
 | Balance fosters homeostasis, while imbalance triggers dysbiosis, which is linked to various health problems | - YangLab -|
 
@@ -16,7 +16,7 @@ home: true
 
 ::: tip 本课题组专注于
 
-- 秉承系统生物学的理念，应用前沿生物信息学及人工智能技术解读菌群内部及菌群-宿主代谢互作平衡对人体健康的影响
+- 秉承系统生物学理念，应用前沿生物信息学及人工智能技术解读菌群内部及菌群-宿主共代谢平衡对人体健康的影响
 - 开发调理这种平衡（Balance）的靶向菌群的干预方法(饮食、精准营养，益生菌等)，旨在实现人体疾病的精准化诊疗。
 :::
 
