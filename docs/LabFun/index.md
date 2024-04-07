@@ -12,3 +12,6 @@ home: true
 
 **[Life in YangLab](https://kwqw2do10m.feishu.cn/docx/GgfCdEzZyojtecxtCEkcMISvnGg)**
 
+![](/team/zhufugui.JPEG)
+
+<img src="/team/zhufugui.JPEG" width="200px">  
