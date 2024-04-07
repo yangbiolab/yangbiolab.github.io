@@ -15,7 +15,7 @@ home: true
 
 **本课题组专注于使用系统生物学的理念和方法，应用前沿生物信息学及人工智能技术解读菌群内部及菌群-宿主代谢互作平衡对健康的影响，并开发调理这种平衡（Balance）的靶向菌群的干预方法(饮食干预、精准营养，中药干预等)，旨在实现疾病的精准化诊疗。**
 
-![mission](/mission-fba.png)
+![mission](/balance-fba.png)
 
 ::: tip The lab's research interests include: 
 1. Microbiome in human health and diseases.
