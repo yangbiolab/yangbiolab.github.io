@@ -2,7 +2,7 @@
 home: true
 ---
 
-![Gut Microbiome](/background1.jpeg)
+![Gut Microbiome](/background1.jpeg#pic_center)
 
 
 **立足前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。**
