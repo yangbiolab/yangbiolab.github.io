@@ -2,7 +2,7 @@
 home: true
 ---
 
-![Gut Microbiome](/background1.jpeg)
+<div align='center'> ![Gut Microbiome](/background1.jpeg)</div>
 
 
 **立足前沿生物信息学及人工智能技术解读人体微生物组对宿主健康的影响，旨在实现人类疾病的精准化诊疗。**
@@ -22,9 +22,7 @@ home: true
 ::: tip 构建疾病预测模型及Web app
 利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**。
 :::
-
-
-![Lab mission](/balance-fba1.png)
+<div align='center'> ![Lab mission](/balance-fba1.png)</div>
 
 
 ### 科研项目
