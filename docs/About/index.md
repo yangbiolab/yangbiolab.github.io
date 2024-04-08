@@ -21,7 +21,7 @@ home: true
 :::
 
 
-<div align='center'>![mission](/balance-fba1.png)</div>
+![mission](/balance-fba1.png#pic_center)
 
 ::: tip The lab's research interests include: 
 1. Microbiome in human health and diseases.
