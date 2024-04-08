@@ -22,7 +22,7 @@ home: true
 ::: tip 构建疾病预测模型及Web app
 利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**。
 :::
-![Lab mission](/balance-fba1.png)
+![Lab mission](/balance-fba1.png#pic_center)
 
 
 ### 科研项目
