@@ -11,7 +11,7 @@ home: true
 
 **[Life in YangLab](https://kwqw2do10m.feishu.cn/docx/GgfCdEzZyojtecxtCEkcMISvnGg)**
 
-<div align='center'>![实验室内外风景](/lab.jpg)</div>
+![实验室内外风景](/lab.jpg#pic_center)
 
 <br>
 <br>
