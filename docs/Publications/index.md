@@ -7,7 +7,7 @@ home: true
 
 **2024**
 
-- Meiling Wan, Zhaoqi Song, Shirong Lai, Furong Tang, Lijun Dou, **Fenglong Yang**, Depression-associated gut microbes, metabolites and clinical trials, ***Frontiers in Microbiology***, Volume 15, January 2024, https://doi.org/10.3389/fmicb.2024.1292004
+- Meiling Wang, Zhaoqi Song, Shirong Lai, Furong Tang, Lijun Dou, **Fenglong Yang**, Depression-associated gut microbes, metabolites and clinical trials, ***Frontiers in Microbiology***, Volume 15, January 2024, https://doi.org/10.3389/fmicb.2024.1292004
 
 <br>
 
