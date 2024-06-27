@@ -6,14 +6,16 @@ home: true
 # Current Members
 
 ## 导师
-[杨凤龙](http://lab.malab.cn/~yangfl)，副教授，硕导，福建医科大学医学技术与工程学院生物信息学系
+[杨凤龙](http://lab.malab.cn/~yangfl)，福建医科大学医学技术与工程学院生物信息学系（硕导，副教授）。<br/>
+[中国自动化学会智能健康与生物信息专委会](https://www.caa.org.cn/article/205/1111.html)委员。<br/>
+PC member of the BIBM conference ([2024](https://ieeebibm.org/BIBM2024/),[2023](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/))<br/>
 
 
 ## 研究生
 
 |     23级      |    24级       |
 |:-------------:|:---------------:|
-|赖文凯、张宇辰 |王美玲、赖诗蓉 |
+|赖文凯、张宇辰 |王美玲、赖诗蓉、刘庆|
 
 
 ## 科研助理
