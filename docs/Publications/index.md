@@ -26,7 +26,7 @@ home: true
 
 <br>
 
-**[Publications Before 2022](http://lab.malab.cn/~yangfl/#Publications)**
+**[Publications before 2022](http://lab.malab.cn/~yangfl/#Publications)**
 
 <br>
 <br>
