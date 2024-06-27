@@ -1,0 +1,1 @@
+import{_ as e,A as n,E as o,X as r}from"./plugin-vue_export-helper.62006daf.js";const d='{"title":"Home","description":"","frontmatter":{"home":true},"relativePath":"Publications/index.md","lastUpdated":1719458986548}',a={},t=r("",13),i=[t];function g(s,l,p,u,m,b){return o(),n("div",null,i)}var h=e(a,[["render",g]]);export{d as __pageData,h as default};
