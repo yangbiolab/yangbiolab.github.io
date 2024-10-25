@@ -10,18 +10,28 @@ home: true
 ### 研究内容
 
 
-::: info 微生物组信息学与人体健康
-理解微生物群在人体健康疾病中的作用，通过LLM协同的文献文本挖掘及微生物组学数据分析，构建肠-免疫轴，肠-脑轴等相关疾病的菌群-宿主互作**知识图谱数据库及智能问答系统**。
+::: info KG and LLM Applications in Medicine [Knowledge driven]
+
+Large language models（LLM）协同的文献文本挖掘及菌群-宿主互作相关**知识图谱构建及智能问答**。
+
+AI辅助的医学知识图谱构建（Knowledge Graph）、智能问答和推理。
 :::
 
 
-::: warning 开发调整菌群的方案以维持人体健康
-构建**饮食-菌群-宿主代谢互作模型**，发展基于菌群代谢模型及微生物组数据，进行疾病标志物识别和饮食调理方案推荐的生物信息学方法。
+::: warning Systems Microbiome Medicine [Model driven]
+
+个体化**饮食-菌群-宿主代谢互作模型**构建，发展基于菌群代谢模型及微生物组数据进行疾病标志物识别和饮食调理（Precision Nutrition）方案推荐的生物信息学方法（Systems Microbiome Informatics）。
 :::
 
-::: tip 构建疾病预测模型及Web app
-利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**。
+
+
+::: tip AI Applications in Healthcare [Data driven]
+
+利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**及Web app。
+
+基于健康信息数据的健康管理和疾病预警（Focus on sensor-based health monitoring）。
 :::
+
 ![Lab mission](/balance-fba1.png#pic_center)
 
 
