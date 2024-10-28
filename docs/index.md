@@ -10,7 +10,7 @@ home: true
 ### 研究内容
 
 
-::: info KG and LLM Applications in Medicine [Knowledge driven]
+::: info KG and LLM Applications in Medicine 【Knowledge driven】
 
 Large language models（LLM）协同的文献文本挖掘及菌群-宿主互作相关**知识图谱构建及智能问答**。
 
@@ -18,14 +18,14 @@ AI辅助的医学知识图谱构建（Knowledge Graph）、智能问答和推理
 :::
 
 
-::: warning Systems Microbiome Medicine [Model driven]
+::: warning Systems Microbiome Medicine 【Model driven】
 
 个体化**饮食-菌群-宿主代谢互作模型**构建，发展基于菌群代谢模型及微生物组数据进行疾病标志物识别和饮食调理（Precision Nutrition）方案推荐的生物信息学方法（Systems Microbiome Informatics）。
 :::
 
 
 
-::: tip AI Applications in Healthcare [Data driven]
+::: tip AI Applications in Healthcare 【Data driven】
 
 利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**及Web app。
 
