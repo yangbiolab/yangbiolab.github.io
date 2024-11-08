@@ -15,7 +15,6 @@ toc: true
 <br>
 
 ## **Peer-reviewed publications:**
-<br>
 
 ## **2024**
 - Baixue Qiao, Shuda Wang, Mingjun Hou, Haodi Chen, Zhengwenyang Zhou, Xueying Xie, Shaozi Pang, Chunxue Yang&#42;, **Fenglong Yang**&#42;, Quan Zou&#42;, Shanwen Sun&#42;, Identifying nucleotide-binding leucine-rich repeat receptor and pathogen effector pairing using transfer-learning and bilinear attention network, ***Bioinformatics***, 2024, btae581, https://doi.org/10.1093/bioinformatics/btae581
