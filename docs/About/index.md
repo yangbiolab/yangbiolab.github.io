@@ -34,9 +34,9 @@ home: true
 
 - [教材：《数据挖掘导论（原书第2版）》](https://developer.aliyun.com/article/727304)
 
-- [生物信息专业 数据挖掘课作业APP](http://yangbiolab.cn:8052/)
+- 生物信息专业 数据挖掘课作业APP [19](http://yangbiolab.cn:8052/19BioInfo), [20](http://yangbiolab.cn:8052/20BioInfo), [21](http://yangbiolab.cn:8052/21BioInfo)
 
-- [智能医学专业 数据挖掘课作业APP](http://yangbiolab.cn:8055/)
+- 智能医学专业 数据挖掘课作业APP [20](http://yangbiolab.cn:8055/), [21](http://yangbiolab.cn:8055/)
 
 :::
 <br>
