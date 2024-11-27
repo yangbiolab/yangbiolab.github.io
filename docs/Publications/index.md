@@ -17,7 +17,7 @@ toc: true
 ## **Peer-reviewed publications:**
 
 ## **2024**
-- Baixue Qiao, Shuda Wang, Mingjun Hou, Haodi Chen, Zhengwenyang Zhou, Xueying Xie, Shaozi Pang, Chunxue Yang&#42;, **Fenglong Yang**&#42;, Quan Zou&#42;, Shanwen Sun&#42;, Identifying nucleotide-binding leucine-rich repeat receptor and pathogen effector pairing using transfer-learning and bilinear attention network, ***Bioinformatics***, 2024, btae581, https://doi.org/10.1093/bioinformatics/btae581
+- Baixue Qiao, Shuda Wang, Mingjun Hou, Haodi Chen, Zhengwenyang Zhou, Xueying Xie, Shaozi Pang, Chunxue Yang&#42;, **Fenglong Yang**&#42;, Quan Zou&#42;, Shanwen Sun&#42;, Identifying nucleotide-binding leucine-rich repeat receptor and pathogen effector pairing using transfer-learning and bilinear attention network, ***Bioinformatics***, 2024, btae581, https://doi.org/10.1093/bioinformatics/btae581 【[WebServer](http://nerrd.cn/#/prediction)】
   
 - Lei Ji, Xiaoyu Chang, Leilei Wang, Xiaowen Fu, Wenkai Lai, Liwen Zheng, Qi Li, Yingna Xing, Zhongfeng Yang, Yuyao Guan&#42;, **Fenglong Yang**&#42;, Insights into the biodegradation of pentachlorobiphenyl by Microbacterium paraoxydans: proteomic and metabolomic studies, ***Frontiers in Microbiology*** Volume 15, June 2024, https://doi.org/10.3389/fmicb.2024.1389805
 - Meiling Wang&dagger;, Zhaoqi Song&dagger;, Shirong Lai, Furong Tang, Lijun Dou&#42;, **Fenglong Yang**&#42;, Depression-associated gut microbes, metabolites and clinical trials, ***Frontiers in Microbiology***, Volume 15, January 2024, https://doi.org/10.3389/fmicb.2024.1292004
@@ -25,7 +25,7 @@ toc: true
 
 ## **2023**
 
-- Haoran Sun&dagger;, Zhaoqi Song&dagger;, Qiuming Chen, Meiling Wang, Furong Tang, Lijun Dou, Quan Zou&#42;, **Fenglong Yang**&#42;, MMiKG: a knowledge graph-based platform for path mining of microbiota–mental diseases interactions, ***Briefings in Bioinformatics***, Volume 24, Issue 6, November 2023, bbad340, https://doi.org/10.1093/bib/bbad340
+- Haoran Sun&dagger;, Zhaoqi Song&dagger;, Qiuming Chen, Meiling Wang, Furong Tang, Lijun Dou, Quan Zou&#42;, **Fenglong Yang**&#42;, MMiKG: a knowledge graph-based platform for path mining of microbiota–mental diseases interactions, ***Briefings in Bioinformatics***, Volume 24, Issue 6, November 2023, bbad340, https://doi.org/10.1093/bib/bbad340 【[WebServer](http://yangbiolab.cn:8501/)】
   
 - Juntao Chen, Jiannan Chao, Huan Liu, **Fenglong Yang**, Quan Zou, Furong Tang, WMSA 2: a multiple DNA/RNA sequence alignment tool implemented with accurate progressive mode and a fast win-win mode combining the center star and progressive strategies, ***Briefings in Bioinformatics***, Volume 24, Issue 4, July 2023, bbad190, https://doi.org/10.1093/bib/bbad190
 
