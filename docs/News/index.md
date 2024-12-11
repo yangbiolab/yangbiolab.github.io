@@ -7,11 +7,11 @@ home: true
 
 | Time | News  |
 |-----:|:---------|
-| Dec 2024 |:airplane: 课题组成员(赖诗蓉、刘庆) **广州** [第六届全国生物医学数据挖掘与计算学术会议(BMDMC)](https://mp.weixin.qq.com/s/5EjJKgZ206A1uNG6tj0vYw)|
-| Aug 2024 |:airplane: 课题组全体成员 **厦门** 参加[福建省生物信息学学会第四届学术研讨会暨闽﹒粤﹒农林联合学术交流会](https://nidshm.xmu.edu.cn/info/1012/2353.htm)|
+| Dec 2024 |:airplane: 赖诗蓉、刘庆 **广州** [第六届全国生物医学数据挖掘与计算学术会议(BMDMC)](https://mp.weixin.qq.com/s/5EjJKgZ206A1uNG6tj0vYw)|
+| Aug 2024 |:airplane: 课题组全体成员 **厦门** [福建省生物信息学学会第四届学术研讨会暨闽﹒粤﹒农林联合学术交流会](https://nidshm.xmu.edu.cn/info/1012/2353.htm)|
 | Jun 2024 |:page_with_curl:  恭喜文凯和季老师合作的文章在***Frontiers in Microbiology***发表 |
 | Jan 2024 | :page_with_curl: 恭喜王美玲、宋兆琪的综述[抑郁症-肠脑轴](https://www.frontiersin.org/articles/10.3389/fmicb.2024.1292004/full)在***Frontiers in Microbiology***发表  |
-| Nov 2023 | :airplane: 实验室全体 **福州** 《[2023年福建省生物信息学学会第三届学术研讨会](https://www.fjmu.edu.cn/2023/1201/c848a188200/page.htm)》 |
+| Nov 2023 | :airplane: 课题组全体成员 **福州** 《[2023年福建省生物信息学学会第三届学术研讨会](https://www.fjmu.edu.cn/2023/1201/c848a188200/page.htm)》 |
 | Nov 2023 | :airplane: 张宇辰、赖文凯、王美玲、罗琪 **深圳** 《[2023年中国微生物学会微生物组专业委员会成立大会暨微生物组与健康学术论坛](https://www.microbiome-csm.org/) 》|
 | Oct 2023  | :airplane: 张宇辰、赖文凯 **青岛** 《[第十二届全国生物信息学与系统生物学学术大会](https://ccbsb2023.casconf.cn/)》 |
 | Sep 2023  | :page_with_curl: 恭喜孙浩然、宋兆祺、陈秋鸣的知识图谱工作[MMiKG](https://pubmed.ncbi.nlm.nih.gov/37779250/)在***briefings in Bioinformatics***发表 |
