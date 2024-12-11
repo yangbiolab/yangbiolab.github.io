@@ -7,19 +7,18 @@ home: true
 
 ## 导师
 [杨凤龙](http://lab.malab.cn/~yangfl)，福建医科大学医学技术与工程学院生物信息学系（硕导，副教授）。<br/>
-福建省级高层次人才(C类)<br/>
-[中国自动化学会智能健康与生物信息专委会](https://www.caa.org.cn/article/205/1111.html)委员。<br/>
-PC member of the BIBM conference ([2024](https://ieeebibm.org/BIBM2024/),[2023](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/))<br/>
+福建省高层次人才(C类)，iMeta期刊青年编委。<br/>
+[中国自动化学会智能健康与生物信息专委会](https://www.caa.org.cn/article/205/1111.html)委员。PC member of the BIBM conference ([2024](https://ieeebibm.org/BIBM2024/),[2023](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/))<br/>
 
 
 ## 研究生
 | 年级 |姓名|研究方向|
 |---:|:---------------|:---------------|
-|24  |王美玲|菌群互作网络标志物挖掘|
-|24  |赖诗蓉|自闭症菌群标志物挖掘|
-|24  |刘庆  |AI数字健康|
-|23  |赖文凯|菌群互作网络标志物识别方法开发| 
-|23  |张宇辰|菌群-宿主共代谢网络建模与饮食推荐| 
+|24  |王美玲|抑郁症菌群互作网络标志物挖掘|
+|24  |赖诗蓉|口腔菌群数据库、自闭症菌群标志物挖掘|
+|24  |刘庆  |移动健康数据库、可穿戴设备健康数据挖掘|
+|23  |赖文凯|高血压菌群互作网络标志物识别方法| 
+|23  |张宇辰|抑郁症菌群-宿主共代谢网络建模与饮食推荐| 
 
 
 
