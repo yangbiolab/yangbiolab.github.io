@@ -40,9 +40,23 @@ toc: true
 
 <br>
 
-## **[Publications before 2022](http://lab.malab.cn/~yangfl/#Publications)**
+## **2021**
+
+- **Fenglong Yang**, Quan Zou, DisBalance: a platform to automatically build balance-based disease prediction models and discover microbial biomarkers from microbiome data, Briefings in Bioinformatics, Volume 22, Issue 5, September 2021, bbab094 【Google Scholar citations: 15 times】
+
+- **Fenglong Yang**, Quan Zou, Bo Gao, GutBalance: a server for the human gut microbiome-based disease prediction and biomarker discovery with compositionality addressed, Briefings in Bioinformatics, Volume 22, Issue 5, September 2021, bbaa436 【Google Scholar citations: 19 times】
+
+- Lijun Dou&dagger;, **Fenglong Yang**&dagger;, Lei Xu, Quan Zou, A comprehensive review of the imbalance classification of protein post-translational modifications, Briefings in Bioinformatics, Volume 22, Issue 5, September 2021, bbab089 【Google Scholar citations: 36 times】
+
+## **2020**
+
+- **Fenglong Yang**, Quan Zou, mAML: an automated machine learning pipeline with a microbiome repository for human disease classification, Database, Volume 2020, 2020, baaa050 【Google Scholar citations: 31 times】
 
 <br>
+<br>
+
+## **:point_right: [Publications before 2020](http://lab.malab.cn/~yangfl/#Publications)**
+
 <br>
 
 Last modified date: 2024.12.17
