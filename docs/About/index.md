@@ -8,8 +8,8 @@ home: true
 | **Lab Philosophy** | **Scientist**  |
 |:-------------------|:---------------|
 | 粪毒入血，百病蜂起 |- 中医观点 -|
-| 肠道菌群的某些成员产生的毒素是衰老根源 |-梅契尼可夫- |
-| All disease begins in the Gut. Let food be the medicine and medicine be the food | -Hippocrates-|
+| 肠道菌群中某些成员产生的毒素是衰老的根源 |-梅契尼可夫- |
+| All disease begins in the Gut. Let food be the medicine and medicine be the food | -希波克拉底-|
 | Balance fosters homeostasis, while imbalance triggers dysbiosis, which is linked to various health problems | - YangLab -|
 
 <br>
