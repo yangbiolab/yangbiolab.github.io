@@ -19,7 +19,7 @@ toc: true
 ## **2024**
 - Baixue Qiao, Shuda Wang, Mingjun Hou, Haodi Chen, Zhengwenyang Zhou, Xueying Xie, Shaozi Pang, Chunxue Yang&#42;, **Fenglong Yang**&#42;, Quan Zou&#42;, Shanwen Sun&#42;, Identifying nucleotide-binding leucine-rich repeat receptor and pathogen effector pairing using transfer-learning and bilinear attention network, ***Bioinformatics***, 2024, btae581 ([WebServer](http://nerrd.cn/#/prediction))
   
-- Lei Ji, Xiaoyu Chang, Leilei Wang, Xiaowen Fu, Wenkai Lai, Liwen Zheng, Qi Li, Yingna Xing, Zhongfeng Yang, Yuyao Guan&#42;, **Fenglong Yang**&#42;, Insights into the biodegradation of pentachlorobiphenyl by Microbacterium paraoxydans: proteomic and metabolomic studies, ***Frontiers in Microbiology*** Volume 15, June 2024 【中科院二区】
+- Lei Ji, Xiaoyu Chang, Leilei Wang, Xiaowen Fu, Wenkai Lai, Liwen Zheng, Qi Li, Yingna Xing, Zhongfeng Yang, Yuyao Guan&#42;, **Fenglong Yang**&#42;, Insights into the biodegradation of pentachlorobiphenyl by Microbacterium paraoxydans: proteomic and metabolomic studies, ***Frontiers in Microbiology*** Volume 15, June 2024 【中科院二区，Google Scholar citations: 0 times】
 - 
 - Meiling Wang&dagger;, Zhaoqi Song&dagger;, Shirong Lai, Furong Tang, Lijun Dou&#42;, **Fenglong Yang**&#42;, Depression-associated gut microbes, metabolites and clinical trials, ***Frontiers in Microbiology***, Volume 15, January 2024 【中科院二区，Google Scholar citations: 8 times】
 <br>
