@@ -32,14 +32,14 @@ home: true
 
 ::: info Teaching: 
 
-**1. 生物医学大数据挖掘**
+**1. 生物医学大数据挖掘** (大三上学期，专业课)
   - 教材：[《Pang-Ning Tan - 数据挖掘导论（原书第2版）》](https://developer.aliyun.com/article/727304) 
   - 生物信息专业 Data Mining Task APPs: [19](http://yangbiolab.cn:8052/19BioInfo), [20](http://yangbiolab.cn:8052/20BioInfo), [21](http://yangbiolab.cn:8052/21BioInfo)
   - 智能医学专业 Data Mining Task APPs: [20](http://yangbiolab.cn:8055/), [21](http://yangbiolab.cn:8055/)
 
-**2.  微生物组信息学**
+**2.  微生物组信息学** (大三下学期，专业课)
    - 教材：[《李兰娟 - 医学微生态学》](https://product.dangdang.com/23725593.html)
-   - 生物信息专业 Final projects:
+   - 生物信息专业 Final Projects:
 
 :::
 <br>
