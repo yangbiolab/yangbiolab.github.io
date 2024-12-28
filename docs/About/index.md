@@ -3,7 +3,7 @@ home: true
 ---
 
 
-# Systems Microbiome Medicine Lab
+# Systems Microbiome Medicine
 
 | **Lab Philosophy** | **Scientist**  |
 |:-------------------|:---------------|
