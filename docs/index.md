@@ -12,9 +12,9 @@ home: true
 
 ::: info KG and LLM Applications in Medicine 【Knowledge driven】
 
-Large language models（LLM）协同的文献文本挖掘及菌群-宿主互作相关**知识图谱构建及智能问答**。
+AI-powered text mining and knowledge discovery 
+菌群-宿主互作相关**知识图谱构建及智能问答**。
 
-AI辅助的医学知识图谱构建（Knowledge Graph）、智能问答和推理。
 :::
 
 
@@ -27,9 +27,8 @@ AI辅助的医学知识图谱构建（Knowledge Graph）、智能问答和推理
 
 ::: tip AI Applications in Healthcare 【Data driven】
 
-利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**及Web app。
-
-基于健康信息数据的健康管理和疾病预警（Focus on sensor-based health monitoring）。
+基于微生物组数据利用机器学习等方法构建肠-免疫轴，肠-脑轴等相关**疾病的诊断预警模型**及Web app。
+基于健康监测信息数据的健康管理和疾病预警（Focus on sensor-based health monitoring）。
 :::
 
 ![Lab mission](/balance-fba1.png#pic_center)
