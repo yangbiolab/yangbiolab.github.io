@@ -25,7 +25,7 @@ home: true
 
 ::: tip The lab's research interests include: 
 1. Microbiome in human health and diseases.
-2. Host-microbiome co-metabolism modeling for precision medicine.
+2. Host-microbiome co-metabolism modelling for precision medicine.
 3. Microbiome-based markers and therapeutics for diseases & disorders.
 4. AI in medicine.
 :::
