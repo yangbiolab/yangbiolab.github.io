@@ -33,12 +33,22 @@ AI-powered text mining and knowledge discovery
 
 ![Lab mission](/balance-fba1.png#pic_center)
 
+### Web服务
+![MMiKG: a knowledge graph-based platform for path mining of microbiota–mental diseases interactions](http://yangbiolab.cn:8501/)
+![DisBalance: a platform to automatically build balance-based disease prediction models and discover microbial biomarkers](http://lab.malab.cn/soft/DisBalance)
+![GutBalance: a server for the human gut microbiome-based disease prediction and biomarker discovery with compositionality addressed](http://lab.malab.cn/soft/GutBalance)
+![mAML: an automated machine learning pipeline with a microbiome repository for human disease classification](http://lab.malab.cn/soft/mAML/)
+
+### 软件流程
+![Galaxy pipelines](yangbiolab.top:8080)
+
+
 
 ### 科研项目
 
 |项目编号 	|项目名称 	|项目分类   |经费(万)|起止日期    | 
 |-----:|:---------|-----:|:-----------|:-----------|
-|申请中...|基于宿主-肠道菌群共代谢模型的抑郁症代谢失衡表征与个性化饮食推荐|国家自然科学基金|---|---|
+|申请中...|基于个体化全身代谢模型的抑郁症代谢失衡表征与营养干预策略研究|国家自然科学基金|---|---|
 |2023060020202746|自发性脑出血治疗的创新与转化研究(科研协作)|附属第一医院|7.5|2023.1-2026.12|
 |62102065	|个体化肠道菌群代谢网络的建模方法研究及应用|国家自然科学基金|30.0	|2021.10-2024.12|
 |2022J05055	|基于肠道微生物组的个体化aGVHD早期风险预警以及代谢网络标志物识别的方法研发|省科技厅项目	|	4.0|2022.8-2025.8|
