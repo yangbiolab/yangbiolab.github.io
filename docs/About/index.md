@@ -3,7 +3,7 @@ home: true
 ---
 
 
-# Systems Microbiome Medicine
+# Microbiome Informatics and Precision Nutrition
 
 | **Lab Philosophy** | **Scientist**  |
 |:-------------------|:---------------|
