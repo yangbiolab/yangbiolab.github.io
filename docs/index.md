@@ -34,12 +34,13 @@ AI-powered text mining and knowledge discovery
 ![Lab mission](/balance-fba1.png#pic_center)
 
 ### Web服务
-[MMiKG: a knowledge graph-based platform for path mining of microbiota–mental diseases interactions](http://yangbiolab.cn:8501/)
-[DisBalance: a platform to automatically build balance-based disease prediction models and discover microbial biomarkers](http://lab.malab.cn/soft/DisBalance)
-[GutBalance: a server for the human gut microbiome-based disease prediction and biomarker discovery with compositionality addressed](http://lab.malab.cn/soft/GutBalance)
-[mAML: an automated machine learning pipeline with a microbiome repository for human disease classification](http://lab.malab.cn/soft/mAML/)
+- [MMiKG: a knowledge graph-based platform for path mining of microbiota–mental diseases interactions](http://yangbiolab.cn:8501/)
+- [DisBalance: a platform to automatically build balance-based disease prediction models and discover microbial biomarkers](http://lab.malab.cn/soft/DisBalance)
+- [GutBalance: a server for the human gut microbiome-based disease prediction and biomarker discovery with compositionality addressed](http://lab.malab.cn/soft/GutBalance)
+- [mAML: an automated machine learning pipeline with a microbiome repository for human disease classification](http://lab.malab.cn/soft/mAML/)
 
 ### 软件流程
+
 [Galaxy pipelines](http://yangbiolab.top:8080/)
 
 
