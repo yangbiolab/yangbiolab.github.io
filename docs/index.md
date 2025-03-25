@@ -40,7 +40,7 @@ AI-powered text mining and knowledge discovery
 [mAML: an automated machine learning pipeline with a microbiome repository for human disease classification](http://lab.malab.cn/soft/mAML/)
 
 ### 软件流程
-[Galaxy pipelines](yangbiolab.top:8080)
+[Galaxy pipelines](http://yangbiolab.top:8080/)
 
 
 
