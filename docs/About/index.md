@@ -30,7 +30,7 @@ home: true
 4. AI in medicine.
 :::
 
-::: info Teaching: 
+::: info Teaching ([Slides](https://app.netlify.com/teams/yangbiolab/sites)): 
 
 **1. 生物医学大数据挖掘** (大三上学期，专业课)
   - 教材：[《Pang-Ning Tan - 数据挖掘导论（原书第2版）》](https://developer.aliyun.com/article/727304) 
