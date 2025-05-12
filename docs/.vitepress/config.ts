@@ -1,4 +1,4 @@
-export default defineConfig({
+export default {
   base: '/',
   // 主题配置
   title: 'YangLab@FJMU',
@@ -49,4 +49,4 @@ export default defineConfig({
     }    
   }
   
-})
+}
