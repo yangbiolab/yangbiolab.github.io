@@ -59,4 +59,4 @@ toc: true
 
 <br>
 
-Last modified date: 2024.12.17 | [闽ICP备2022017705号](https://beian.miit.gov.cn/#/Integrated/recordQuery)
+<center>Last modified date: 2024.12.17</center>
