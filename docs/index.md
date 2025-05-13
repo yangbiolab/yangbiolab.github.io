@@ -56,4 +56,9 @@ AI-powered text mining and knowledge discovery
 |XRCZX2022003	|菌群相关复杂疾病的建模预测及机制研究|校科技处|50.0	|	2022.4-2026.9|
 <br>
 <br>
-Last modified date: 2024.12.17 | [闽ICP备2022017705号](https://beian.miit.gov.cn/#/Integrated/recordQuery)
+
+<p align="center">
+  Last modified date: 2024.12.17 <br>
+  <a href="https://beian.miit.gov.cn/#/Integrated/recordQuery">闽ICP备2022017705号</a>
+</p>
+
