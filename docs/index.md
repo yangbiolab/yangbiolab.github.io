@@ -58,7 +58,7 @@ AI-powered text mining and knowledge discovery
 <br>
 
 <p align="center">
-  Last modified date: 2024.12.17 <br>
+  最后修改时间：2024.12.17 <br>
   <a href="https://beian.miit.gov.cn/#/Integrated/recordQuery">闽ICP备2022017705号</a>
 </p>
 
