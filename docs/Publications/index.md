@@ -58,5 +58,3 @@ toc: true
 ## **:point_right: [Publications before 2020](http://lab.malab.cn/~yangfl/#Publications)**
 
 <br>
-
-<center>Last modified date: 2024.12.17</center>
