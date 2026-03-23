@@ -8,13 +8,23 @@ toc: true
 
 
 ## **Submitted publications:**
-
-- Systematic Mining of gut microbiota biomarkers for IBD, Yuchen Zhang, Wenkai Lai, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Lijun Dou, Fenglong Yang, bioRxiv 2024.10.10.617522; doi: https://doi.org/10.1101/2024.10.10.617522
-- Gut microbial metabolic flux disorder in hypertension, Lai Wenkai, Yuchen Zhang, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Feng long Yang,bioRxiv 2024.10.09.617349; doi: https://doi.org/10.1101/2024.10.09.617349
-- Deciphering the Gut Microbiome’s Influence on Depression: A Community-Level Constraint-Based Metabolic modelling Approach, Zhang Yuchen, Wenkai Lai, Wang Meiling, Lai Shirong, Liu Qing, Luo Qi, Yang Fenglong, bioRxiv 2024.10.10.617513; doi: https://doi.org/10.1101/2024.10.10.617513
+- Multi-omics integration of gut microbiota, single-cell transcriptomics, and genetic associations reveals host–microbe interactions in hypertension, Wenkai Lai
+- The FERM Guild: A Differentially Correlated Microbial Module Drives Hypertension via Metabolic Flux Perturbations, Wenkai Lai
+- 二型糖尿病相关肠道菌群互作网络扰动及其关键功能模块识别, 中国微生态学杂志, Wenkai Lai
+- Deep Learning for Sleep Quality Assessment: A CNN-based Approach Outperforming Traditional Algorithms in Wearable Accelerometer Data Analysis, Qing Liu
+- Graph-Enhanced Medical Question-Answering System Integrating Knowledge Graphs and Large Language Models, Qing Liu
+- The Application of Wearable Technology, Big Data, and Artificial Intelligence in Chronic Disease Prevention and Treatment, Qing Liu
+- Sex-Specific Gut Microbiota-Metabolite Interactions in Autism Spectrum Disorder: Dysbiosis, Metabolic Disruptions, and Niche Competition Dynamics, Shirong Lai
 <br>
 
 ## **Peer-reviewed publications:**
+
+## **2026**
+Yuchen Zhang&dagger;, Wenkai Lai&dagger;, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Zheng Chen&#42;, Da Zhao&#42;, Ziwei Wang&#42;, and **Fenglong Yang**&#42;, Gut Microbial Metabolic Disorder in Depression: Insights from Computational Modeling and Mediation Analysis, ***BMC Microbiology***
+
+## **2025**
+- Meiling Wang&dagger;, Zhaoqi Song&dagger;, Qing Liu, Furong Tang&#42;, Ziwei Wang&#42;, **Fenglong Yang**&#42;,DeepALM: A Context-Aware Deep Learning Framework for Antimicrobial Peptide Prediction, ***Current Bioinformatics***
+
 
 ## **2024**
 - Baixue Qiao, Shuda Wang, Mingjun Hou, Haodi Chen, Zhengwenyang Zhou, Xueying Xie, Shaozi Pang, Chunxue Yang&#42;, **Fenglong Yang**&#42;, Quan Zou&#42;, Shanwen Sun&#42;, Identifying nucleotide-binding leucine-rich repeat receptor and pathogen effector pairing using transfer-learning and bilinear attention network, ***Bioinformatics***, 2024, btae581 ([WebServer](http://nerrd.cn/#/prediction))
