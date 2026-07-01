@@ -10,7 +10,6 @@ toc: true
 ## **Submitted publications:**
 - Multi-omics integration of gut microbiota, single-cell transcriptomics, and genetic associations reveals host–microbe interactions in hypertension, Wenkai Lai
 - The FERM Guild: A Differentially Correlated Microbial Module Drives Hypertension via Metabolic Flux Perturbations, Wenkai Lai
-- Graph-Enhanced Medical Question-Answering System Integrating Knowledge Graphs and Large Language Models, Qing Liu
 - The Application of Wearable Technology, Big Data, and Artificial Intelligence in Chronic Disease Prevention and Treatment, Qing Liu
 - Sex-Specific Gut Microbiota-Metabolite Interactions in Autism Spectrum Disorder: Dysbiosis, Metabolic Disruptions, and Niche Competition Dynamics, Shirong Lai
 <br>
@@ -18,7 +17,9 @@ toc: true
 ## **Peer-reviewed publications:**
 
 ## **2026**
-- Zhongyue L&dagger;, Yi L&dagger;, Qing L, Zhengru X, **Fenglong Y**&#42. Deep learning for sleep quality assessment: a CNN-based approach outperforming traditional algorithms in wearable accelerometer data analysis. ***Sleep Research***. 2026;1-7. https://doi.org/10.1002/slp2.70048
+- Zhongyue L&dagger;, Yi L&dagger;, Qing L, Zhengru X, **Fenglong Y**&#42;. Deep learning for sleep quality assessment: a CNN-based approach outperforming traditional algorithms in wearable accelerometer data analysis. ***Sleep Research***. 2026;1-7. https://doi.org/10.1002/slp2.70048
+  
+- Huang, Y.&dagger;, Liu, Q.&dagger;, Xie, Z., Ding, B.&#42;, Wang, Z.&#42;, & **Fenglong Y**&#42;. (2026). Graph-Enhanced Medical Question-Answering System Integrating Knowledge Graphs and Large Language Models. ***Journal of Artificial Intelligence for Medical Sciences***, 7(1-4), 1-12. https://doi.org/10.55578/joaims.260408.001
 
 - Yuchen Zhang&dagger;, Wenkai Lai&dagger;, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Zheng Chen&#42;, Da Zhao&#42;, Ziwei Wang&#42;, and **Fenglong Yang**&#42;, Gut Microbial Metabolic Disorder in Depression: Insights from Computational Modeling and Mediation Analysis, ***BMC Microbiology*** 26, 494 (2026). https://doi.org/10.1186/s12866-026-04991-z
 
