@@ -20,7 +20,7 @@ toc: true
 ## **2026**
 - Zhongyue L&dagger;, Yi L&dagger;, Qing L, Zhengru X, **Fenglong Y**&#42. Deep learning for sleep quality assessment: a CNN-based approach outperforming traditional algorithms in wearable accelerometer data analysis. ***Sleep Research***. 2026;1-7. https://doi.org/10.1002/slp2.70048
 
-- Yuchen Zhang&dagger;, Wenkai Lai&dagger;, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Zheng Chen&#42;, Da Zhao&#42;, Ziwei Wang&#42;, and **Fenglong Yang**&#42;, Gut Microbial Metabolic Disorder in Depression: Insights from Computational Modeling and Mediation Analysis, ***BMC Microbiology***
+- Yuchen Zhang&dagger;, Wenkai Lai&dagger;, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Zheng Chen&#42;, Da Zhao&#42;, Ziwei Wang&#42;, and **Fenglong Yang**&#42;, Gut Microbial Metabolic Disorder in Depression: Insights from Computational Modeling and Mediation Analysis, ***BMC Microbiology*** 26, 494 (2026). https://doi.org/10.1186/s12866-026-04991-z
 
 ## **2025**
 - Meiling Wang&dagger;, Zhaoqi Song&dagger;, Qing Liu, Furong Tang&#42;, Ziwei Wang&#42;, **Fenglong Yang**&#42;,DeepALM: A Context-Aware Deep Learning Framework for Antimicrobial Peptide Prediction, ***Current Bioinformatics***
