@@ -1,0 +1,43 @@
+name: Deploy GitHub Pages
+
+on:
+  workflow_dispatch
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  Deploy_GitHub_Pages:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4  # 从 v2 升级到 v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4  # 从 v2 升级到 v4
+        with:
+          node-version: '18'  # 从 14 升级到 18（LTS）
+          cache: 'yarn'  # 自动缓存，不再需要单独 cache 步骤
+
+      - name: Install dependencies
+        run: yarn --frozen-lockfile
+
+      - name: Build VuePress site
+        run: yarn docs:build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3  # 官方上传 artifact
+        with:
+          path: docs/.vitepress/dist  # 您的构建输出目录
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4  # 官方部署 action
