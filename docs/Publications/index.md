@@ -9,14 +9,21 @@ toc: true
 
 ## **Submitted publications:**
 - Multi-omics integration of gut microbiota, single-cell transcriptomics, and genetic associations reveals host–microbe interactions in hypertension, Wenkai Lai
-- The FERM Guild: A Differentially Correlated Microbial Module Drives Hypertension via Metabolic Flux Perturbations, Wenkai Lai
 - The Application of Wearable Technology, Big Data, and Artificial Intelligence in Chronic Disease Prevention and Treatment, Qing Liu
 - Sex-Specific Gut Microbiota-Metabolite Interactions in Autism Spectrum Disorder: Dysbiosis, Metabolic Disruptions, and Niche Competition Dynamics, Shirong Lai
+- Integrating Metagenomic Metabolic Simulation and Single-Cell Transcriptomics Reveals Metabolic Remodeling and Cell-Specific Regulatory Mechanisms of the ”Microbiota-Gut-Brain” Axis in Alzheimer’s Disease， Shirong Lai
+- Context-aware and explainable wearable sleep staging from Apple Watch signals with external PSG stress testing， Zhengru Xie
+- Enhancing Generalization in Retinal Vessel Segmentation: A Transfer Learning Framework with Robust Domain Calibration and Clinical Web Integration，Junli Ma
+- EEG-Mamba-S: A Lightweight State-Space Model for Few-Channel Wearable Seizure Prediction, Junli Ma
+- An SE-DenseNet121 Framework for Chest X-ray Pneumonia Detection, Mohan Lin
 <br>
 
 ## **Peer-reviewed publications:**
 
 ## **2026**
+
+- Lai, W.&dagger;, Zhang, Y.&dagger;, Huang, S., Lai, S., Lin, F., Wang, Z., Sun, S., & **Yang, F.**&#42; (2026). The FERM guild: a differentially correlated microbial module drives hypertension via metabolic flux perturbations. ***mSystems***, e0035826. Advance online publication. https://doi.org/10.1128/msystems.00358-26
+  
 - Zhongyue L&dagger;, Yi L&dagger;, Qing L, Zhengru X, **Fenglong Y**&#42;. Deep learning for sleep quality assessment: a CNN-based approach outperforming traditional algorithms in wearable accelerometer data analysis. ***Sleep Research***. 2026;1-7. https://doi.org/10.1002/slp2.70048
   
 - Huang, Y.&dagger;, Liu, Q.&dagger;, Xie, Z., Ding, B.&#42;, Wang, Z.&#42;, & **Fenglong Y**&#42;. (2026). Graph-Enhanced Medical Question-Answering System Integrating Knowledge Graphs and Large Language Models. ***Journal of Artificial Intelligence for Medical Sciences***, 7(1-4), 1-12. https://doi.org/10.55578/joaims.260408.001
