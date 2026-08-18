@@ -1,0 +1,48 @@
+name: Deploy GitHub Pages
+
+on:
+  workflow_dispatch
+
+jobs:
+  Deploy_GitHub_Pages:
+    runs-on: ubuntu-latest
+    environment: github-pages
+    permissions:
+      contents: write  # 添加写入权限
+      pages: write
+      id-token: write
+    
+    steps:
+      - uses: actions/checkout@v4  # 升级到v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4  # 升级到v4
+        with:
+          node-version: '18'  # 升级到18 LTS
+
+      - name: Cache dependencies
+        uses: actions/cache@v4  # 升级到v4
+        id: package-cache
+        with:
+          path: |
+            ~/.npm
+            ~/.cache/yarn
+            node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}  # 修正为yarn.lock
+
+      - name: Install dependencies
+        if: steps.package-cache.outputs.cache-hit != 'true'
+        run: yarn --frozen-lockfile
+
+      - name: Build VuePress site
+        run: yarn docs:build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3  # 使用更稳定的action
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # 使用默认token
+          publish_dir: docs/.vitepress/dist
+          publish_branch: gh-pages
+          force_orphan: true  # 保持历史干净
