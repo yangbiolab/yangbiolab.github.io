@@ -22,33 +22,33 @@ toc: true
 
 ## **2026**
 
-- Lai, W.&dagger;, Zhang, Y.&dagger;, Huang, S., Lai, S., Lin, F., Wang, Z., Sun, S., & **Yang, F.**&#42; (2026). The FERM guild: a differentially correlated microbial module drives hypertension via metabolic flux perturbations. ***mSystems***, e0035826. Advance online publication. https://doi.org/10.1128/msystems.00358-26
+- Lai, W.&dagger;, Zhang, Y.&dagger;, Huang, S., Lai, S., Lin, F., Wang, Z., Sun, S., & **Yang, F.**&#42; (2026). The FERM guild: a differentially correlated microbial module drives hypertension via metabolic flux perturbations. ***mSystems***, e0035826. Advance online publication. https://doi.org/10.1128/msystems.00358-26 【中科院二区】
   
-- Zhongyue L&dagger;, Yi L&dagger;, Qing L, Zhengru X, **Fenglong Y**&#42;. Deep learning for sleep quality assessment: a CNN-based approach outperforming traditional algorithms in wearable accelerometer data analysis. ***Sleep Research***. 2026;1-7. https://doi.org/10.1002/slp2.70048
+- Zhongyue L&dagger;, Yi L&dagger;, Qing L, Zhengru X, **Fenglong Y**&#42;. Deep learning for sleep quality assessment: a CNN-based approach outperforming traditional algorithms in wearable accelerometer data analysis. ***Sleep Research***. 2026;1-7. https://doi.org/10.1002/slp2.70048 【中国科技期刊卓越行动计划二期，国内首本睡眠科学领域英文期刊】
   
 - Huang, Y.&dagger;, Liu, Q.&dagger;, Xie, Z., Ding, B.&#42;, Wang, Z.&#42;, & **Fenglong Y**&#42;. (2026). Graph-Enhanced Medical Question-Answering System Integrating Knowledge Graphs and Large Language Models. ***Journal of Artificial Intelligence for Medical Sciences***, 7(1-4), 1-12. https://doi.org/10.55578/joaims.260408.001
 
-- Yuchen Zhang&dagger;, Wenkai Lai&dagger;, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Zheng Chen&#42;, Da Zhao&#42;, Ziwei Wang&#42;, and **Fenglong Yang**&#42;, Gut Microbial Metabolic Disorder in Depression: Insights from Computational Modeling and Mediation Analysis, ***BMC Microbiology*** 26, 494 (2026). https://doi.org/10.1186/s12866-026-04991-z
+- Yuchen Zhang&dagger;, Wenkai Lai&dagger;, Meiling Wang, Shirong Lai, Qing Liu, Qi Luo, Zheng Chen&#42;, Da Zhao&#42;, Ziwei Wang&#42;, and **Fenglong Yang**&#42;, Gut Microbial Metabolic Disorder in Depression: Insights from Computational Modeling and Mediation Analysis, ***BMC Microbiology*** 26, 494 (2026). https://doi.org/10.1186/s12866-026-04991-z 【中科院二区】
 
 ## **2025**
-- Meiling Wang&dagger;, Zhaoqi Song&dagger;, Qing Liu, Furong Tang&#42;, Ziwei Wang&#42;, **Fenglong Yang**&#42;,DeepALM: A Context-Aware Deep Learning Framework for Antimicrobial Peptide Prediction, ***Current Bioinformatics***
+- Meiling Wang&dagger;, Zhaoqi Song&dagger;, Qing Liu, Furong Tang&#42;, Ziwei Wang&#42;, **Fenglong Yang**&#42;,DeepALM: A Context-Aware Deep Learning Framework for Antimicrobial Peptide Prediction, ***Current Bioinformatics***(2026). https://doi.org/10.2174/0115748936446480260326102931
 
 
 ## **2024**
-- Baixue Qiao, Shuda Wang, Mingjun Hou, Haodi Chen, Zhengwenyang Zhou, Xueying Xie, Shaozi Pang, Chunxue Yang&#42;, **Fenglong Yang**&#42;, Quan Zou&#42;, Shanwen Sun&#42;, Identifying nucleotide-binding leucine-rich repeat receptor and pathogen effector pairing using transfer-learning and bilinear attention network, ***Bioinformatics***, 2024, btae581 ([WebServer](http://nerrd.cn/#/prediction))
+- Baixue Qiao, Shuda Wang, Mingjun Hou, Haodi Chen, Zhengwenyang Zhou, Xueying Xie, Shaozi Pang, Chunxue Yang&#42;, **Fenglong Yang**&#42;, Quan Zou&#42;, Shanwen Sun&#42;, Identifying nucleotide-binding leucine-rich repeat receptor and pathogen effector pairing using transfer-learning and bilinear attention network, ***Bioinformatics***, 2024, btae581 ([WebServer](http://nerrd.cn/#/prediction)) 【中科院二区】
   
-- Lei Ji, Xiaoyu Chang, Leilei Wang, Xiaowen Fu, Wenkai Lai, Liwen Zheng, Qi Li, Yingna Xing, Zhongfeng Yang, Yuyao Guan&#42;, **Fenglong Yang**&#42;, Insights into the biodegradation of pentachlorobiphenyl by Microbacterium paraoxydans: proteomic and metabolomic studies, ***Frontiers in Microbiology*** Volume 15, June 2024 【中科院二区，Google Scholar citations: 0 times】
+- Lei Ji, Xiaoyu Chang, Leilei Wang, Xiaowen Fu, Wenkai Lai, Liwen Zheng, Qi Li, Yingna Xing, Zhongfeng Yang, Yuyao Guan&#42;, **Fenglong Yang**&#42;, Insights into the biodegradation of pentachlorobiphenyl by Microbacterium paraoxydans: proteomic and metabolomic studies, ***Frontiers in Microbiology*** Volume 15, June 2024 【中科院二区】
 
-- Meiling Wang&dagger;, Zhaoqi Song&dagger;, Shirong Lai, Furong Tang, Lijun Dou&#42;, **Fenglong Yang**&#42;, Depression-associated gut microbes, metabolites and clinical trials, ***Frontiers in Microbiology***, Volume 15, January 2024 【中科院二区，Google Scholar citations: 8 times】
+- Meiling Wang&dagger;, Zhaoqi Song&dagger;, Shirong Lai, Furong Tang, Lijun Dou&#42;, **Fenglong Yang**&#42;, Depression-associated gut microbes, metabolites and clinical trials, ***Frontiers in Microbiology***, 2024 Jan 31;15:1292004. doi: 10.3389/fmicb.2024.1292004. PMID: 38357350; PMCID: PMC10864537. 【中科院二区】
 <br>
 
 ## **2023**
 
-- Haoran Sun&dagger;, Zhaoqi Song&dagger;, Qiuming Chen, Meiling Wang, Furong Tang, Lijun Dou, Quan Zou&#42;, **Fenglong Yang**&#42;, MMiKG: a knowledge graph-based platform for path mining of microbiota–mental diseases interactions, ***Briefings in Bioinformatics***, Volume 24, Issue 6, November 2023, bbad340([WebServer](http://yangbiolab.cn:8501/)) 【中科院一区，Google Scholar citations: 6 times】
+- Haoran Sun&dagger;, Zhaoqi Song&dagger;, Qiuming Chen, Meiling Wang, Furong Tang, Lijun Dou, Quan Zou&#42;, **Fenglong Yang**&#42;, MMiKG: a knowledge graph-based platform for path mining of microbiota–mental diseases interactions, ***Briefings in Bioinformatics***, Volume 24, Issue 6, November 2023, bbad340([WebServer](http://yangbiolab.cn:8501/)) 【中科院一区】
   
 - Juntao Chen, Jiannan Chao, Huan Liu, **Fenglong Yang**, Quan Zou, Furong Tang, WMSA 2: a multiple DNA/RNA sequence alignment tool implemented with accurate progressive mode and a fast win-win mode combining the center star and progressive strategies, ***Briefings in Bioinformatics***, Volume 24, Issue 4, July 2023, bbad190
 
-- Wang, Z.&dagger;, Gao, J.&dagger;, Kan, H., Huang, Y., Tang, F., Li, W.&#42;, & **Yang, F**&#42;.(2023). ResNet for Histopathologic Cancer Detection, the Deeper, the Better?. ***Journal of Data Science and Intelligent Systems*** 【Google Scholar citations: 11 times】
+- Wang, Z.&dagger;, Gao, J.&dagger;, Kan, H., Huang, Y., Tang, F., Li, W.&#42;, & **Yang, F**&#42;.(2023). ResNet for Histopathologic Cancer Detection, the Deeper, the Better?. ***Journal of Data Science and Intelligent Systems*** 
 
 <br>
 
